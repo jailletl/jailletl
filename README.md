@@ -4,12 +4,8 @@ I'm jailletl, deeply passionate about cybersecurity. I am always eager to learn 
 💼 Tech Stack
 Here are some of the technologies I work with:
 
-Python HTML5 CSS JavaScript C C++ C# XML YAML SQL Unity Kali Linux BASH Hack The Box Ubuntu Linux Server Raspberry Pi PHP Ansible Docker Docker Compose VMware Windows Server Apache LAMP Flipper Zero Raspberry Pi Pico Arduino MariaDB PHPMyAdmin MySQL Workbench MySQL Virtual Box OSMC Batocera Plex Open Media Vault TOR Bootstrap SSH FTP SNMP WDS MDT SFTP SAMBA NTFS DHCP DNS ARP Remote Desktop Protocol SMTP FL Studio Music Production Spotify Deezer Nginx Portainer
-
-📊 GitHub Stats:
-W4RSH3LL's GitHub Stats
-
-Top Langs
+!Python 
+HTML5 CSS JavaScript C C++ C# XML YAML SQL Unity Kali Linux BASH Hack The Box Ubuntu Linux Server Raspberry Pi PHP Ansible Docker Docker Compose VMware Windows Server Apache LAMP Flipper Zero Raspberry Pi Pico Arduino MariaDB PHPMyAdmin MySQL Workbench MySQL Virtual Box OSMC Batocera Plex Open Media Vault TOR Bootstrap SSH FTP SNMP WDS MDT SFTP SAMBA NTFS DHCP DNS ARP Remote Desktop Protocol SMTP FL Studio Music Production Spotify Deezer Nginx Portainer
 
 🚀 Projects
 Project 1: A small combination of a Network Scanner script, ARP Spoofer script and a Packet Sniffer to place you in the middle of the connection and sniff credentials.
