@@ -1,3 +1,21 @@
+# Bienvenue sur mon profil GitHub!
+
+## À propos de moi
+Je suis un développeur passionné par les technologies web et mobiles.
+
+### Compétences
+- **Langages de programmation**: Python, JavaScript, C++
+- **Frameworks**: React, Node.js, Django
+
+### Contactez-moi
+Pour toute collaboration, n'hésitez pas à me contacter.
+
+### Langages et Outils:
+!Python
+!JavaScript
+!C++
+
+
 🌱 About Me
 I'm jailletl, deeply passionate about cybersecurity. I am always eager to learn new technologies and challenge myself in various ways. With a keen interest in understanding the nuts and bolts of security protocols and systems, I dedicate my time to exploring and securing digital environments.
 
