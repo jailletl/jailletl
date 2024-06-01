@@ -1,7 +1,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <div class="markdown-heading" dir="auto">
-    <h1 align="center" class="heading-element" dir="auto">Hi there, I'm jailletl 🐚</h1>
-    <a id="user-content-hi-there-im-jailletl-" class="anchor" aria-label="Permalink: Hi there, I'm jailletl 🐚" href="#hi-there-im-jailletl-">
+    <h1 align="center" class="heading-element" dir="auto">Bienvenue, je suis jailletl 🐚</h1>
+    <a id="user-content-hi-there-im-jailletl-" class="anchor" aria-label="Permalink: Bienvenue, je suis jailletl 🐚" href="#hi-there-im-jailletl-">
       <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
     </a>
   </div>
@@ -21,12 +21,12 @@
 <p dir="auto">I'm <strong>jailletl</strong>, deeply passionate about cybersecurity. I am always eager to learn new technologies and challenge myself in various ways. With a keen interest in understanding the nuts and bolts of security protocols and systems, I dedicate my time to exploring and securing digital environments.</p>
   
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">💼 Tech Stack</h3>
-  <a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💼 Tech Stack" href="#-tech-stack">
+  <h3 class="heading-element" dir="auto">💼 Technologies utilisées</h3>
+  <a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💼 Technologies utilisées" href="#-tech-stack">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
-<p dir="auto">Here are some of the technologies I work with:</p>
+<p dir="auto">Voici quelques technologies avec lesquelles je travaille :</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;">
 </a>
@@ -97,22 +97,22 @@
   <img src="https://camo.githubusercontent.com/ad6f617787b134cfded321cdf5abf6c15914258e529f45c6e4c43f80a15c7194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
 </p>
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">🚀 Projects</h3>
-  <a id="user-content--projects" class="anchor" aria-label="Permalink: 🚀 Projects" href="#-projects">
+  <h3 class="heading-element" dir="auto">🚀 Mes projets</h3>
+  <a id="user-content--projects" class="anchor" aria-label="Permalink: 🚀 Mes projets" href="#-projects">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
 <ul dir="auto">
-<li><strong>Project 1</strong>: A small combination of a Network Scanner script, ARP Spoofer script and a Packet Sniffer to place you in the middle of the connection and sniff credentials.</li>
-<li><strong>Project 2</strong>: A python reconaissance script used to automate the different scans for HTB Machines: Nmap, Dirb, etc...</li>
+<li><strong>Projet 1</strong>: une petite combinaison d'un script Network Scanner, d'un script ARP Spoofer et d'un Packet Sniffer pour vous placer au milieu de la connexion et renifler les informations d'identification.</li>
+<li><strong>Projet 2</strong>: Un script de reconnaissance python utilisé pour automatiser les différents scans des Machines HTB : Nmap, Dirb, ...</li>
 </ul>
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">📫 How to Reach Me</h3>
-  <a id="user-content--how-to-reach-me" class="anchor" aria-label="Permalink: 📫 How to Reach Me" href="#-how-to-reach-me">
+  <h3 class="heading-element" dir="auto">📫 Me contacter</h3>
+  <a id="user-content--how-to-reach-me" class="anchor" aria-label="Permalink: 📫 Me contacter" href="#-how-to-reach-me">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
-<p dir="auto">Feel free to connect with me on <a href="https://www.linkedin.com/in/ludivine-jaillet-861693226/" rel="nofollow">LinkedIn</a> or send me an email at <code>jaillet.ludivine.lgm@gmail.com</code>.
-Personal <a href="" rel="nofollow">Portfolio</a>
+<p dir="auto">N'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/ludivine-jaillet-861693226/" rel="nofollow">LinkedIn</a> ou à m'envoyer un email à <code>jaillet.ludivine.lgm@gmail.com</code>.
+Mon <a href="" rel="nofollow">Portfolio</a>
 </p>
 </article>
