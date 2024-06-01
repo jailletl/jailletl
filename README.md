@@ -97,22 +97,6 @@
   <img src="https://camo.githubusercontent.com/ad6f617787b134cfded321cdf5abf6c15914258e529f45c6e4c43f80a15c7194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
 </p>
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">📊 GitHub Stats:</h3>
-  <a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 GitHub Stats:" href="#-github-stats">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
-  </a>
-</div>
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ccbec40efd244533857476f28059511fc67ab15edb897ba2069be089484c32d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5734525348334c4c2673686f775f69636f6e733d74727565267468656d653d7261646963616c">
-    <img src="https://camo.githubusercontent.com/ccbec40efd244533857476f28059511fc67ab15edb897ba2069be089484c32d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5734525348334c4c2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="W4RSH3LL's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=W4RSH3LL&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
-  </a>
-</p>
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe9c803e89ff0b7872f58afd3eb2cb0d2643de6db6ab8ce0c7e6d8264c8d632e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5734525348334c4c266c61796f75743d636f6d70616374267468656d653d7261646963616c">
-    <img src="https://camo.githubusercontent.com/fe9c803e89ff0b7872f58afd3eb2cb0d2643de6db6ab8ce0c7e6d8264c8d632e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5734525348334c4c266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4RSH3LL&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
-  </a>
-</p>
-<div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">🚀 Projects</h3>
   <a id="user-content--projects" class="anchor" aria-label="Permalink: 🚀 Projects" href="#-projects">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
