@@ -18,7 +18,7 @@
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
-<p dir="auto">I'm <strong>jailletl</strong>, deeply passionate about cybersecurity. I am always eager to learn new technologies and challenge myself in various ways. With a keen interest in understanding the nuts and bolts of security protocols and systems, I dedicate my time to exploring and securing digital environments.</p>
+<p dir="auto">Je suis <strong>jailletl</strong>,profondément passionné par le développement. Je suis désireuse d'apprendre de nouvelles technologies et de me mettre au défi de diverses manières. Avec un intérêt particulier pour l’orchestration des conteneurs et les architectures microservices, je passe mon temps à peaufiner les pipelines CI/CD et à renforcer les systèmes de déploiement.</p>
   
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">💼 Technologies utilisées</h3>
@@ -103,8 +103,8 @@
   </a>
 </div>
 <ul dir="auto">
-<li><strong>Projet 1</strong>: une petite combinaison d'un script Network Scanner, d'un script ARP Spoofer et d'un Packet Sniffer pour vous placer au milieu de la connexion et renifler les informations d'identification.</li>
-<li><strong>Projet 2</strong>: Un script de reconnaissance python utilisé pour automatiser les différents scans des Machines HTB : Nmap, Dirb, ...</li>
+<li><strong>Projet 1</strong>: Développement d’un pipeline CI/CD robuste pour l’intégration et le déploiement continus d’applications microservices sur Kubernetes. </li>
+<li><strong>Projet 2</strong>: Mise en place d’une infrastructure as code avec Terraform pour provisionner et gérer des environnements cloud multi-fournisseurs de manière sécurisée et évolutive.</li>
 </ul>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">📫 Me contacter</h3>
@@ -113,6 +113,6 @@
   </a>
 </div>
 <p dir="auto">N'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/ludivine-jaillet-861693226/" rel="nofollow">LinkedIn</a> ou à m'envoyer un email à <code>jaillet.ludivine.lgm@gmail.com</code>.
-Mon <a href="" rel="nofollow">Portfolio</a>
+Découvrez également mon <a href="" rel="nofollow">Portfolio</a>
 </p>
 </article>
