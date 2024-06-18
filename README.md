@@ -103,8 +103,9 @@
   </a>
 </div>
 <ul dir="auto">
-<li><strong>Projet 1</strong>: Développement d’un pipeline CI/CD robuste pour l’intégration et le déploiement continus d’applications microservices sur Kubernetes. </li>
-<li><strong>Projet 2</strong>: Mise en place d’une infrastructure as code avec Terraform pour provisionner et gérer des environnements cloud multi-fournisseurs de manière sécurisée et évolutive.</li>
+<li><strong>Projet 1</strong>: Développement d'une application web dédiée à la gestion de commandes des clients internes permettant de suivre en temps réel les étapes de commande, de configuration et de visualisation des solutions.</li>
+<li><strong>Projet 2</strong>: Développement d'un site web permettant la gestion des accès des employés aux zones à accès restreintes.</li>
+<li><strong>Projet 3</strong>: Développement d'un site web permettant de visualiser la gestion des tickets de demande de support, incluant la visualisation en temps réel du statut des tickets et de la personne en charge.</li>
 </ul>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">📫 Me contacter</h3>
